@@ -1,2 +1,2 @@
-# fantastic-barnacle
+# fantastic-barnicle
 Learning how to use github
